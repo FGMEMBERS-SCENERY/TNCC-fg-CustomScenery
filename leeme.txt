@@ -1,0 +1,60 @@
+===============================================
+= TNCC - HATO INTERNATIONAL AIRPORT - CURACAO =
+===============================================
+
+INTRODUCCIÓN
+============
+Hato International Airport o Curaçao International Airport es el aeropuerto de Willemstad, Curaçao. Atiende a la región del Caribe, América del Sur, Norte América y Europa. El nuevo terminal fue abierto oficialmente en 2006 y recibe un máximo de 1.6 pasajeros al año.
+
+
+INSTALACIÓN
+============
+Es necesario tener instalado previamente el escenario "w070n10".
+
+1.- Reemplaza todos los archivos contenidos en "Objects" en tu directorio "data/Scenery/Objects".
+2.- Copia la carpeta "Airport-TNCC" a "data/Models".
+
+... y a disfrutar!!!
+
+NOTA: Si el nivel de FPS se ve seriamente afectado por la cantidad de modelos contenidos, puedes editar el archivo "1825160.stg" en la carpeta "Objects", y borrar objetos y elementos adicionales que no son completamente necesarios para disfrutar el escenario, los cuáles están claramente separados y etiquetados para una mejor identificación de ellos.
+
+
+GNU GPL LICENSE
+===============
+
+TNCC CURACAO INTERNATIONAL AIRPORT - 1.0
+Copyright (C) 2010 Horacio Contreras
+
+Este programa es software libre: usted puede redistribuirlo y/o modificarlo 
+bajo los términos de la Licencia Pública General GNU publicada 
+por la Fundación para el Software Libre, ya sea la versión 2 
+de la Licencia, o (a su elección) cualquier versión posterior.
+
+Este programa se distribuye con la esperanza de que sea útil, pero 
+SIN GARANTÍA ALGUNA; ni siquiera la garantía implícita 
+MERCANTIL o de APTITUD PARA UN PROPÓSITO DETERMINADO. 
+Consulte los detalles de la Licencia Pública General GNU para obtener 
+una información más detallada. 
+
+
+AGRADECIMIENTOS!!
+=================
+Quiero dedicar especiales agradecimientos a quiénes amablemente me autorizaron para usar sus trabajos e incluirlos como parte de mi propio trabajo:
+
+- Romain Albenque de "KangaroOz 3D" por su modelo "Date Palm Tree" provisto amablemente para ser usado dentro de TNCC.
+
+- David Ritter: de "www.rgbstock.com", por su gran fotografía "TGen building at night", la cuál provee a las ventanas nocturnas dando al modelo 3D su cálida y maravillosa visión.
+
+- Tristan del Foro Oficial de FlightGear por las texturas de las banderas oficiales provistas para el modelo de TNCC.
+
+
+... para toda la comunidad Flightgear.
+http://www.flightgear.org/
+
+____________________________________
+HORACIO CONTRERAS R. 
+http://www.grafikavirtual.com/fgfs
+horacio0810@gmail.com
+
+Visita: http://www.vivefg.org/
+Comunidad hispano-americana de FlightGear!
