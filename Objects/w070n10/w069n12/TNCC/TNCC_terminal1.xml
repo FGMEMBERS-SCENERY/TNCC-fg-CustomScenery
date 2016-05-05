@@ -3,8 +3,6 @@
 <PropertyList>
 	<path>TNCC_terminal1.ac</path>
 	
-	<!-- Transposición de texturas nocturnas -->
-
 	<animation>
 		<type>textranslate</type>
 		<object-name>TNCC_logo</object-name>

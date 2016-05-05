@@ -2,6 +2,9 @@
 = TNCC - HATO INTERNATIONAL AIRPORT - CURACAO =
 ===============================================
 
+![Horacio Image](https://github.com/FGMEMBERS-SCENERY/TNCC-fg-CustomScenery/blob/master/TNCC_day2.jpg)
+
+
 INTRODUCTION
 ============
 Hato International Airport or Curaçao International Airport is the airport of Willemstad, Curaçao. It has services to the Caribbean region, South America, North America and Europe. Hato Airport is a fairly large facility, with the third longest commercial runway in the Caribbean region (after Rafael Hernández Airport and Pointe-à-Pitre International Airport).
